@@ -1,7 +1,4 @@
-# MCSkinInstant-Code
+# MCSkinInstant
 Hello, this is a program that allows you to download and view minecraft skin. This is using the MC-Heads API.
-# Why
-This is here incase you want to fix my terriable code
-# How Do I Download
-You can download through my download repository.
-Link:https://github.com/Vexify4/MCSkinInstant-Download
+# Download
+Go to packages and click the latest version. Once downloaded click the setup install.
