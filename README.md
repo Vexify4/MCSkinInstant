@@ -14,5 +14,7 @@ Does not been tested for Linux or Mac so do at your own risk.
 # Resources
 Setup exe: https://www.youtube.com/watch?v=fehVTLNQorQ&t
 #
-a
+Getting Started: https://www.youtube.com/watch?v=n5WneLo6vOY&t
+#
+Webbrowser: https://www.youtube.com/watch?v=Xh7R9Q5jPpk&t
 
