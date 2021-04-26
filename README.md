@@ -10,5 +10,9 @@ View https://mc-heads.net/player/username
 If you would like to make changes fork the repository and open it in visual studio 2019.
 # Operating System
 This application has been tested with Windows 10 but would probely work for most Windows Operating Systems.
-Does not been tested for Linux or Mac so do at your own risk
+Does not been tested for Linux or Mac so do at your own risk.
+# Resources
+Setup exe: https://www.youtube.com/watch?v=fehVTLNQorQ&t
+#
+a
 
